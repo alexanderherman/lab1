@@ -123,6 +123,8 @@ public class JudgeAuditions
 			}
 		}
 		
+		System.out.println("Auditions are complete.");
+		
 	}
 	
 	// determines if user input for a vocalist's volume is valid
