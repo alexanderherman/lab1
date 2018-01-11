@@ -7,9 +7,9 @@ public class JudgeAuditions
 	// execute application
 	public static void main(String[] args) throws InterruptedException
 	{
-		int performerCount = 0;	//4
-		int dancerCount = 0;	//2
-		int vocalistCount = 8;	//1
+		int performerCount = 4;
+		int dancerCount = 2;
+		int vocalistCount = 1;
 		int randdomNumber;
 		
 		// creates an array of participants given the counts set above
